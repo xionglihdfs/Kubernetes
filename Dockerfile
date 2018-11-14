@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64
+FROM gcr.io/google_containers/pause:latest
 MAINTAINER xiongli
