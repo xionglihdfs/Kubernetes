@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause:latest
+FROM quay.io/mongodb/charts:v0.10.0
 MAINTAINER xiongli
