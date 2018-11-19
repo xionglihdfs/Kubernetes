@@ -1,2 +1,2 @@
-FROM quay.io/mongodb/charts:v0.10.0
+FROM k8s.gcr.io/kubernetes-dashboard-amd64.tar
 MAINTAINER xiongli
